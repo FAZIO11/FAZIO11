@@ -5,11 +5,11 @@ A motivated aspiring Computer Science student with a keen interest in academic r
 
 ## About Me
 
--🎓 Aspiring to specialize in Computer Science with a strong focus on academic research.\n
--💼 Passionate about Computer Vision and Machine Learning, always eager to explore new concepts and technologies.
--🌱 Actively learning Keras and other frameworks to enhance skills in the field.
--🔭 Seeking collaboration opportunities on exciting projects to gain practical experience and advance in the field.
--📫 Email: fazilsathar200@gmail.com
+- 🎓 Aspiring to specialize in Computer Science with a strong focus on academic research.
+- 💼 Passionate about Computer Vision and Machine Learning, always eager to explore new concepts and technologies.
+- 🌱 Actively learning Keras and other frameworks to enhance skills in the field.
+- 🔭 Seeking collaboration opportunities on exciting projects to gain practical experience and advance in the field.
+- 📫 Email: fazilsathar200@gmail.com
 
 ## Projects
 
