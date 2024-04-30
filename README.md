@@ -1,21 +1,25 @@
 
 # Hello, I'm Fazil Sathar ! 👋
 
-I'm a passionate undergraduate student studying Computer Science. Welcome to my GitHub profile!
+A motivated aspiring Computer Science student with a keen interest in academic research, particularly in computer vision and machine learning, eager to contribute to the field of artificial intelligence through collaborative projects and continuous skill development. Welcome to my GitHub profile!
 
 ## About Me
 
-- 🎓 I'm currently pursuing my undergraduate degree in Computer Science.
-- 💼 I'm interested in Computer Vision and MAchine Learning, and I'm always eager to learn new things.
-- 🌱 I’m currently learning Keras and other frameworks.
-- 🔭 I’m looking for opportunities to collaborate on interesting projects and gain hands-on experience.
-- 📫 Email : fazilsathar200@gmail.com 
+-🎓 Aspiring to specialize in Computer Science with a strong focus on academic research.
+-💼 Passionate about Computer Vision and Machine Learning, always eager to explore new concepts and technologies.
+-🌱 Actively learning Keras and other frameworks to enhance skills in the field.
+-🔭 Seeking collaboration opportunities on exciting projects to gain practical experience and advance in the field.
+-📫 Email: fazilsathar200@gmail.com
 
 ## Projects
 
-Here are some of the projects I've worked on:1. [Project Name]: Brief description of the project.
-   - Technologies used: [Technologies/Languages/Frameworks]
-   - Link to GitHub repository: [GitHub Repo URL]
+Here are some of the projects I've worked on:
+1. [Sentiment Analysis Tool for Amazon Alexa Reviews]: 
+   -  Developed a sentiment analysis model for Amazon Alexa product reviews
+   -  Utilized scikit-learn for machine learning tasks and Flask for web application deployment
+   -  Employed data preprocessing techniques such as text cleaning and TF-IDF vectorization
+   -  Tuned hyperparameters for model optimization and evaluated performance using key metrics • Deployed the model with Flask
+   - Link to GitHub repository: [https://github.com/FAZIO11/Alexa-Review-Sentiment-Analysis]
 
 2. [Project Name]: Brief description of the project.
    - Technologies used: [Technologies/Languages/Frameworks]
