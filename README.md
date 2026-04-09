@@ -57,6 +57,6 @@ Data Structures, Machine Learning, Image Classification, Object Detection, Senti
 
 ## Languages
 
-- English: CEFR C1 level proficiency, IELTS band 7.5 [Certificate](https://drive.google.com/file/d/177JSFYeDAk44CA9zgrhEIjwp7L_gkdpw/view?usp=sharing)
+- English: CEFR C1 level proficiency, IELTS band 8
 - Malayalam: Mother tongue
 - Hindi and Arabic :Less proficient
