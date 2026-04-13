@@ -21,7 +21,7 @@ PyTorch · RAG pipelines · vector DBs
 
 — **Mito** — AI finance co-pilot connected to live bank accounts via MCP. Built at Buildathon @ OGR Torino.
 
-— **SkyItalia** — multilingual airline voice agent with full tool-calling. Built solo at ElevenLabs AI Hackathon, Milan.
+— **SkyItalia** — multilingual airline voice agent with full tool-calling. 
 
 
 ---
