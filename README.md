@@ -1,35 +1,40 @@
-Hey, I'm Fazil 👋
+# Hey, I'm Fazil 👋
 
-I'm an agentic AI developer based in Turin, Italy, studying Computer Engineering at Politecnico di Torino.
+Computer Engineering student at Politecnico di Torino, building low-latency, production-ready AI systems.
 
-I build AI agents that actually ship — voice agents, financial co-pilots, MCP-powered tools. 
-
-My current focus is LLM orchestration, agentic systems, and the MCP protocol. I also run **Tektias**, a small web dev company I founded.
+I focus on **agentic architectures, LLM orchestration, and real-time ML systems** — especially where research meets deployment.
 
 ---
 
-**Stack I work with:**
-```
-Python · TypeScript · FastAPI · React
-LangChain · MCP · Claude API · ElevenLabs
-PyTorch · RAG pipelines · vector DBs
-```
+## What I work on
+
+- Agentic systems & tool-calling architectures  
+- LLM orchestration (multi-step reasoning, memory, workflows)  
+- Real-time ML pipelines (sub-100ms inference)  
+- RAG systems & vector search  
+- Backend systems for AI products  
 
 ---
 
-**A few things I've built:**
+## Tech Stack
 
-— **Mito** — AI finance co-pilot connected to live bank accounts via MCP. Built at Buildathon @ OGR Torino.
+**Languages**  
+Python · TypeScript · C++ · SQL  
 
-— **SkyItalia** — multilingual airline voice agent with full tool-calling. 
+**Backend & Systems**  
+FastAPI · Node.js · Docker · REST APIs · Linux  
 
+**AI / ML**  
+PyTorch · OpenCV · Scikit-learn · RAG pipelines · vector DBs  
+
+**LLM / Agents**  
+LangChain · MCP · Claude API · tool-calling systems  
 
 ---
 
-— Background in computer vision (CS231n, CVIT Summer School, rover navigation)  
-— I speak English, Malayalam, Hindi, and a little Arabic
 
----
 
-📬 fazilsathar200@gmail.com · [LinkedIn](https://www.linkedin.com/in/fazil-sathar-01a11b244/)
+## Reach out
 
+📬 fazilsathar200@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/fazil-sathar-01a11b244/)  
